@@ -1,0 +1,1 @@
+This repository demonstrates a common error in unsafe Rust code. The example shows how modifying a vector through a raw pointer can lead to undefined behavior if not handled correctly. The solution showcases a safer alternative using standard Rust methods.
